@@ -1,4 +1,4 @@
-nama_diklat,start,end,jamlat,nama_peserta,nip,born,Age,gender,ujian,eselon2,education,posi_desc
+nama_diklat,start,end,jamlat,nama_peserta,nip,born,age,gender,ujian,eselon2,education,posi_desc
 Pelatihan Tata Naskah Dinas Angkatan I,24/01/2019,08/02/2019,35.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Tata Naskah Dinas Angkatan I,24/01/2019,08/02/2019,35.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Tata Naskah Dinas Angkatan I,24/01/2019,08/02/2019,35.0,Eri Hariyanto,~ 197309011994021001,Yogyakarta,47,PRIA,TIDAK,KU,S2,Wi_Madya
@@ -14,8 +14,8 @@ Pelatihan Analisis Kebutuhan Pembelajaran Angkatan I,11/02/2019,15/02/2019,36.0,
 Pelatihan Asesor Kompetensi Angkatan I,11/02/2019,18/02/2019,55.0,Sumadiyah Triwidiyantini Olfah,~ 197010071990122001,Surakarta,50,WANITA,TIDAK,AP,S2,Wi_Muda
 Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di KLC,11/02/2019,14/02/2019,37.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di KLC,11/02/2019,14/02/2019,37.0,R. Eha Salhah,~ 197007091996032001,Serang,50,WANITA,TIDAK,PUSDBC,S2,Wi_Muda
-Pelatihan Analisis Kebutuhan Pembelajaran Angkatan I,11/02/2019,15/02/2019,36.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di KLC,11/02/2019,14/02/2019,37.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Analisis Kebutuhan Pembelajaran Angkatan I,11/02/2019,15/02/2019,36.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di KLC,11/02/2019,14/02/2019,37.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan I,11/02/2019,15/02/2019,36.0,Irawan Purwo Aji,~ 197912231999031001,Gunung Kidul,41,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan I,11/02/2019,15/02/2019,36.0,Hindri Asmoko,~ 196910221990031001,Sragen,51,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan I,11/02/2019,15/02/2019,36.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
@@ -28,7 +28,7 @@ Pelatihan Metodologi Penelitian Angkatan I,18/02/2019,15/05/2019,147.0,Sampurna 
 Pelatihan Metodologi Penelitian Angkatan I,18/02/2019,15/05/2019,147.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 Pelatihan Metodologi Penelitian Angkatan I,18/02/2019,15/05/2019,147.0,Mila Mumpuni,~ 197412061995112001,Wonosobo,46,WANITA,TIDAK,PSDM,S3,Wi_Madya
 Pelatihan Legal Drafting Angkatan I,25/02/2019,01/03/2019,45.0,Bambang Sancoko,~ 197507171995031001,Magelang,45,PRIA,TIDAK,AP,S2,Wi_Madya
-Pelatihan Legal Drafting Angkatan I,25/02/2019,01/03/2019,45.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Legal Drafting Angkatan I,25/02/2019,01/03/2019,45.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Pemrograman Web,25/02/2019,06/03/2019,69.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan I,26/02/2019,22/03/2019,73.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan I,26/02/2019,22/03/2019,73.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
@@ -55,11 +55,11 @@ Seminar Data Analytics: Policies Implementation,07/11/2019,07/11/2019,5.0,Khamam
 Seminar Data Analytics: Policies Implementation,07/11/2019,07/11/2019,5.0,Ribut Sugianto,~ 197009301990121001,Madiun,50,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Seminar Data Analytics: Policies Implementation,07/11/2019,07/11/2019,5.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Seminar Data Analytics: Policies Implementation,07/11/2019,07/11/2019,5.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
-Seminar Data Analytics: Policies Implementation,07/11/2019,07/11/2019,5.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
-E-Learning Manajemen Pembelajaran Angkatan II,11/11/2019,26/11/2019,24.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,YA,Puspa,S2,Wi_Madya
+Seminar Data Analytics: Policies Implementation,07/11/2019,07/11/2019,5.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+E-Learning Manajemen Pembelajaran Angkatan II,11/11/2019,26/11/2019,24.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,YA,PUSPA,S2,Wi_Madya
 Pelatihan Asesor Kompetensi Angkatan II,11/11/2019,18/11/2019,55.0,Agung Haris Setiawan,~ 197503051999031001,Klaten,45,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Pelatihan Asesor Kompetensi Angkatan II,11/11/2019,18/11/2019,55.0,Nur Hendrastuti,~ 197312221994022001,Yogyakarta,47,WANITA,TIDAK,KNPK,S2,Wi_Madya
-E-Learning Manajemen Pembelajaran Angkatan II,11/11/2019,26/11/2019,24.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,YA,Puspa,S2,Wi_Madya
+E-Learning Manajemen Pembelajaran Angkatan II,11/11/2019,26/11/2019,24.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,YA,PUSPA,S2,Wi_Madya
 Pelatihan Asesor Kompetensi Angkatan II,11/11/2019,18/11/2019,55.0,Rachmatunnisya,~ 197601191996022002,Tanjung Pura,44,WANITA,TIDAK,KNPK,S2,Wi_Muda
 Pelatihan Asesor Kompetensi Angkatan II,11/11/2019,18/11/2019,55.0,Koko Inarto,~ 198404132004121003,Mojokerto,36,PRIA,TIDAK,KNPK,S2,Wi_Muda
 e-Learning Pengelolaan Utang Angkatan V,21/11/2019,30/11/2019,6.0,Tenry Nur Amriani,~ 197512251996022001,Takalar,45,WANITA,YA,NaN,S1,Wi_Muda
@@ -72,7 +72,7 @@ Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,13/12/2019,13/12/201
 Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,13/12/2019,13/12/2019,6.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,13/12/2019,13/12/2019,6.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Desain Pembelajaran,31/01/2018,12/03/2018,72.0,Tony Rooswiyanto,~ 195604041982031001,Bandung,64,PRIA,TIDAK,PSDM,S2,Wi_Utama
-Pelatihan Desain Pembelajaran,31/01/2018,12/03/2018,72.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Desain Pembelajaran,31/01/2018,12/03/2018,72.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Desain Pembelajaran,31/01/2018,12/03/2018,72.0,Riyanto,~ 197510011996021001,Tegal,45,PRIA,TIDAK,AP,S2,Wi_Madya
 Pelatihan Desain Pembelajaran,31/01/2018,12/03/2018,72.0,Edy Purwanto,~ 197407191994021001,Jepara,46,PRIA,TIDAK,PUSDBC,S2,Widyaiswara
 Pelatihan Desain Pembelajaran,31/01/2018,12/03/2018,72.0,Bambang Kismanto,~ 197211261994021001,Magelang,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
@@ -109,9 +109,9 @@ Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,28/02/2018,28/02/201
 Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,28/02/2018,28/02/2018,6.0,Desak Ketut Juniari Cameng,~ 197306071992122001,Denpasar,47,WANITA,TIDAK,PUSDBC,S2,Widyaiswara
 Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,28/02/2018,28/02/2018,6.0,Sukarno,~ 197612121996021003,Pati,44,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
 Seminar Perencanaan Keuangan dan Pengelolaan Utang Keluarga,28/02/2018,28/02/2018,6.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
-Pelatihan Menulis Untuk Media Massa Angkatan I,01/03/2018,10/04/2018,66.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Pelatihan Menulis Untuk Media Massa Angkatan I,01/03/2018,10/04/2018,66.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Pelatihan Diplomasi Ekonomi,12/03/2018,16/03/2018,47.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,TIDAK,KU,S2,Wi_Madya
-Pelatihan Diplomasi Ekonomi,12/03/2018,16/03/2018,47.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Diplomasi Ekonomi,12/03/2018,16/03/2018,47.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Hukum Beracara di Pengadilan Angkatan I,19/03/2018,29/03/2018,63.0,Budi Nugroho,~ 197207181992121001,Klaten,48,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Hukum Beracara di Pengadilan Angkatan I,19/03/2018,29/03/2018,63.0,Mandar Trisno Hadisaputra,~ 197506291996021001,Cirebon,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Metodologi Penelitian,23/03/2018,26/06/2018,147.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
@@ -131,15 +131,15 @@ Pelatihan Ekonometrika Tingkat Dasar Angkatan II,26/03/2018,29/03/2018,34.0,Muha
 Pelatihan Ekonometrika Tingkat Dasar Angkatan II,26/03/2018,29/03/2018,34.0,Nur Hendrastuti,~ 197312221994022001,Yogyakarta,47,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Pelatihan Metodologi Penelitian Angkatan II,02/04/2018,02/07/2018,147.0,Tohirin,~ 196903121990031001,Pekalongan,51,PRIA,TIDAK,PUSPA,S2,Widyaiswara
 Pelatihan Metodologi Penelitian Angkatan II,02/04/2018,02/07/2018,147.0,Mukhtaromin,~ 197412061995031002,Kebumen,46,PRIA,TIDAK,AP,S2,Wi_Madya
-Pelatihan Metodologi Penelitian Angkatan II,02/04/2018,02/07/2018,147.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Metodologi Penelitian Angkatan II,02/04/2018,02/07/2018,147.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Persiapan Purnabhakti Kelas Eksekutif,02/04/2018,06/04/2018,29.0,Muhammad Haniv,~ 195901231981011001,Jakarta,61,PRIA,TIDAK,Puspa,S3,Wi_Utama
+Pelatihan Metodologi Penelitian Angkatan II,02/04/2018,02/07/2018,147.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Metodologi Penelitian Angkatan II,02/04/2018,02/07/2018,147.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Persiapan Purnabhakti Kelas Eksekutif,02/04/2018,06/04/2018,29.0,Muhammad Haniv,~ 195901231981011001,Jakarta,61,PRIA,TIDAK,PUSPA,S3,Wi_Utama
 Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Hasan Ashari,~ 197402251993011001,Mojokerto,46,PRIA,TIDAK,AP,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia Angkatan II,16/04/2018,31/05/2018,127.0,Dwi Ari Wibawa,~ 197607031996031001,Klaten,44,PRIA,TIDAK,AP,S2,Wi_Madya
 Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Pelatihan Desain Grafis dan Multimedia Angkatan II,16/04/2018,31/05/2018,127.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Desain Grafis dan Multimedia Angkatan II,16/04/2018,31/05/2018,127.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia Angkatan II,16/04/2018,31/05/2018,127.0,Arfin,~ 197812071998031001,Jayapura,42,PRIA,TIDAK,PUSDBC,,Wi_Madya
 Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Ita Hartati,~ 196206171983022001,Jakarta,58,WANITA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia Angkatan II,16/04/2018,31/05/2018,127.0,Riyanto,~ 197510011996021001,Tegal,45,PRIA,TIDAK,AP,S2,Wi_Madya
@@ -148,10 +148,10 @@ Pelatihan Desain Grafis dan Multimedia,16/04/2018,30/05/2018,139.0,Achmat Subeka
 Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,R. Eha Salhah,~ 197007091996032001,Serang,50,WANITA,TIDAK,PUSDBC,S2,Wi_Muda
 Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia,16/04/2018,30/05/2018,139.0,A. Ali Mashduqi,~ 197507031999031002,Bojonegoro,45,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
-Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Pelatihan Rancang Bangun Soal Angkatan I,16/04/2018,20/04/2018,42.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Khalimi,~ 196707051989121001,Brebes,53,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Penyusunan Modul Angkatan I,16/04/2018,20/04/2018,34.0,Rachmatunnisya,~ 197601191996022002,Tanjung Pura,44,WANITA,TIDAK,KNPK,S2,Wi_Muda
@@ -165,7 +165,7 @@ Workshop On Social Media Marketing,14/05/2018,17/05/2018,40.0,Sri Wahyuni,~ 1974
 Workshop On Social Media Marketing,14/05/2018,17/05/2018,40.0,Agus Hekso Pramudijono,~ 197008121991031001,Kediri,50,PRIA,TIDAK,KU,S2,Wi_Madya
 Workshop On Social Media Marketing,14/05/2018,17/05/2018,40.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Analisis Laporan Keuangan (ALK) Perpajakan Tingkat Dasar Angkatan I,14/05/2018,18/05/2018,49.0,Tohirin,~ 196903121990031001,Pekalongan,51,PRIA,TIDAK,PUSPA,S2,Widyaiswara
-Pelatihan Analisis Laporan Keuangan (ALK) Perpajakan Tingkat Dasar Angkatan I,14/05/2018,18/05/2018,49.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Analisis Laporan Keuangan (ALK) Perpajakan Tingkat Dasar Angkatan I,14/05/2018,18/05/2018,49.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Analisis Laporan Keuangan (ALK) Perpajakan Tingkat Dasar Angkatan I,14/05/2018,18/05/2018,49.0,Oktavia Ester Pangaribuan,~ 197110151992032001,Jayapura,49,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Pelatihan Analisis Laporan Keuangan (ALK) Perpajakan Tingkat Dasar Angkatan I,14/05/2018,18/05/2018,49.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Analisis Laporan Keuangan (ALK) Perpajakan Tingkat Dasar Angkatan I,14/05/2018,18/05/2018,49.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
@@ -226,56 +226,56 @@ Pelatihan Rancang Bangun Soal Angkatan II,27/08/2018,31/08/2018,42.0,Mila Mumpun
 Pelatihan Desain Grafis dan Multimedia Angkatan V,27/08/2018,09/10/2018,127.0,Desak Ketut Juniari Cameng,~ 197306071992122001,Denpasar,47,WANITA,TIDAK,PUSDBC,S2,Widyaiswara
 Pelatihan Desain Grafis dan Multimedia Angkatan V,27/08/2018,09/10/2018,127.0,Hindri Asmoko,~ 196910221990031001,Sragen,51,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia Angkatan V,27/08/2018,09/10/2018,127.0,Parluhutan Hutahaean,~ 195609281981081001,Balige,64,PRIA,TIDAK,AP,S3,Wi_Utama
-Pelatihan Financial Statistics Angkatan I,11/03/2019,15/03/2019,47.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Financial Statistics Angkatan I,11/03/2019,15/03/2019,47.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Financial Statistics Angkatan I,11/03/2019,15/03/2019,47.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Muhammad Haniv,~ 195901231981011001,Jakarta,61,PRIA,TIDAK,Puspa,S3,Wi_Utama
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan II,15/03/2019,20/03/2019,37.0,Muhammad Haniv,~ 195901231981011001,Jakarta,61,PRIA,TIDAK,PUSPA,S3,Wi_Utama
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan II,18/03/2019,22/03/2019,36.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan II,18/03/2019,22/03/2019,36.0,Mangasa Simatupang,~ 195808261979031001,Medan,62,PRIA,TIDAK,KU,S2,Wi_Utama
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan II,18/03/2019,22/03/2019,36.0,Agus Hekso Pramudijono,~ 197008121991031001,Kediri,50,PRIA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan II,18/03/2019,22/03/2019,36.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Pelatihan Analisis Kebutuhan Pembelajaran Angkatan II,18/03/2019,22/03/2019,36.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Muhammad Haniv,~ 195901231981011001,Jakarta,61,PRIA,TIDAK,Puspa,S3,Wi_Utama
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan II,21/03/2019,16/04/2019,73.0,Muhammad Haniv,~ 195901231981011001,Jakarta,61,PRIA,TIDAK,PUSPA,S3,Wi_Utama
 Pelatihan Legal Drafting Angkatan II,25/03/2019,29/03/2019,45.0,Haris Premadi,~ 197002161997031001,Palembang,50,PRIA,TIDAK,AP,S2,Wi_Madya
-Pelatihan Penyegaran Manajemen Pembelajaran Angkatan I,27/03/2019,05/04/2019,28.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Penyegaran Manajemen Pembelajaran Angkatan I,27/03/2019,05/04/2019,28.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Agus Hekso Pramudijono,~ 197008121991031001,Kediri,50,PRIA,YA,KU,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,YA,KU,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,YA,KU,S2,Wi_Madya
@@ -284,8 +284,8 @@ E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Bambang Sancoko,~ 197507171995031001,Magelang,45,PRIA,YA,AP,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Margono,~ 195405251977121001,Purwodadi,66,PRIA,YA,KNPK,S2,Wi_Utama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,YA,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,YA,Puspa,S2,Wi_Madya
-Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,YA,PUSPA,S2,Wi_Madya
+Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Supriyanto,~ 197202051999031001,Kulonprogo,48,PRIA,YA,PSDM,S2,Wi_Madya
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Sampurna Budi Utama,~ 197402191995021001,Yogyakarta,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Deddy Candra,~ 197606111999031001,Medan,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
@@ -296,10 +296,10 @@ E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Soderi,~ 197104041993031001,Karangtengah,49,PRIA,TIDAK,AP,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Kurniawan,~ 197608291996021001,Jakarta,44,PRIA,YA,PUSDBC,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Subarja,~ 197508211996021003,Bantul,45,PRIA,YA,AP,S1,Wi_Muda
-Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,YA,PUSPA,S2,Wi_Madya
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,YA,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,YA,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,YA,PUSPA,DIV,Wi_Pertama
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Wisnu Nugrahini,~ 197105061996032001,Boyolali,49,WANITA,TIDAK,PUSDBC,S2,Widyaiswara
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Suradi,~ 196310251986031002,Sragen,57,PRIA,TIDAK,PSDM,S2,Wi_Madya
@@ -307,7 +307,7 @@ Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Ami
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan I,03/09/2018,17/09/2018,18.0,Hari Sugiharto,~ 196709071988031001,Cirebon,53,PRIA,YA,PSDM,DIV,Wi_Madya
 Pelatihan Pembuatan Karya Tulis Ilmiah Angkatan I,03/09/2018,14/09/2018,45.0,Koko Inarto,~ 198404132004121003,Mojokerto,36,PRIA,TIDAK,KNPK,S2,Wi_Muda
 Workshop Public Policy Reform: Crisis Anticipation and Management (Law No.9 of 2016),14/09/2018,21/09/2018,7.0,Mangasa Simatupang,~ 195808261979031001,Medan,62,PRIA,TIDAK,KU,S2,Wi_Utama
-Workshop Public Policy Reform: Crisis Anticipation and Management (Law No.9 of 2016),14/09/2018,21/09/2018,7.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Workshop Public Policy Reform: Crisis Anticipation and Management (Law No.9 of 2016),14/09/2018,21/09/2018,7.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Workshop Public Policy Reform: Crisis Anticipation and Management (Law No.9 of 2016),14/09/2018,21/09/2018,7.0,Oktavia Ester Pangaribuan,~ 197110151992032001,Jayapura,49,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Workshop Public Policy Reform: Crisis Anticipation and Management (Law No.9 of 2016),14/09/2018,21/09/2018,7.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Workshop Public Policy Reform: Crisis Anticipation and Management (Law No.9 of 2016),14/09/2018,21/09/2018,7.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
@@ -332,18 +332,18 @@ E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/0
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Sumini,~ 197106161992032001,Magetan,49,WANITA,TIDAK,KNPK,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Oktavia Ester Pangaribuan,~ 197110151992032001,Jayapura,49,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Arfin,~ 197812071998031001,Jayapura,42,PRIA,TIDAK,PUSDBC,,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Agung Haris Setiawan,~ 197503051999031001,Klaten,45,PRIA,TIDAK,KNPK,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Sam'ani Budianto K.,~ 195411081975091001,Cirebon,66,PRIA,TIDAK,AP,S2,Wi_Utama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Sumadiyah Triwidiyantini Olfah,~ 197010071990122001,Surakarta,50,WANITA,TIDAK,AP,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Jus Samuel Sihotang,~ 197506041996021002,Air Batu,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Mandar Trisno Hadisaputra,~ 197506291996021001,Cirebon,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan II,18/09/2018,01/10/2018,18.0,Sukarno,~ 197612121996021003,Pati,44,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
@@ -378,13 +378,13 @@ E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Haris Premadi,~ 197002161997031001,Palembang,50,PRIA,TIDAK,AP,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Hanik Rustiningsih,~ 197003051996032001,Mojokerto,50,WANITA,TIDAK,PUSDBC,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Arvan Carlo Djohansjah,~ 197408251995031002,Jember,46,PRIA,TIDAK,KNPK,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Lokakarya Komunikasi Melalui Website dan Media Sosial,02/10/2018,04/10/2018,30.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Ita Hartati,~ 196206171983022001,Jakarta,58,WANITA,TIDAK,PSDM,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Nur Hendrastuti,~ 197312221994022001,Yogyakarta,47,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Lokakarya Komunikasi Melalui Website dan Media Sosial,02/10/2018,04/10/2018,30.0,Retno Dayu Wardhani,~ 196106071985032001,Bandung,59,WANITA,TIDAK,PUSPA,S1,Wi_Madya
@@ -392,29 +392,29 @@ E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/
 Lokakarya Komunikasi Melalui Website dan Media Sosial,02/10/2018,04/10/2018,30.0,Puji Agus,~ 197508231999031002,Jakarta,45,PRIA,TIDAK,NaN,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Leonarda Sambas Kusumaningsih,~ 197305111993012001,Sambas,47,WANITA,TIDAK,PUSPA,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Setyawan Dwi Antoro,~ 197303121993021001,Karangmojo,47,PRIA,TIDAK,AP,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Aniek Juliarini,~ 196707251993102001,Sragen,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Rahmad Guntoro,~ 197601111996021003,Grogol-sukoharjo,44,PRIA,TIDAK,PUSPA,S2,Widyaiswara
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,R. Eha Salhah,~ 197007091996032001,Serang,50,WANITA,TIDAK,PUSDBC,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,A. Ali Mashduqi,~ 197507031999031002,Bojonegoro,45,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,Puspa,DIV,Wi_Muda
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,PUSPA,DIV,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Bambang Kismanto,~ 197211261994021001,Magelang,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Khalimi,~ 196707051989121001,Brebes,53,PRIA,TIDAK,PSDM,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Izzuddin,~ 196004031981121001,Cirebon,60,PRIA,TIDAK,KNPK,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Mila Mumpuni,~ 197412061995112001,Wonosobo,46,WANITA,TIDAK,PSDM,S3,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Bungkus Sasongko Purnomo,~ 197212181999031001,Purwokerto,48,PRIA,TIDAK,PSDM,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Egrita Buntara,~ 197206091999031001,Surabaya,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan III,02/10/2018,15/10/2018,18.0,Febta Rina Handayani,~ 197602201996032001,Blitar,44,WANITA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia Angkatan VII,15/10/2018,27/11/2018,127.0,Deddy Candra,~ 197606111999031001,Medan,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-Pelatihan Desain Grafis dan Multimedia Angkatan VII,15/10/2018,27/11/2018,127.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Desain Grafis dan Multimedia Angkatan VII,15/10/2018,27/11/2018,127.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Desain Grafis dan Multimedia Angkatan VII,15/10/2018,27/11/2018,127.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Desain Grafis dan Multimedia Angkatan VII,15/10/2018,27/11/2018,127.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia,15/10/2018,26/11/2018,127.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Pelatihan Desain Grafis dan Multimedia Angkatan VII,15/10/2018,27/11/2018,127.0,Febta Rina Handayani,~ 197602201996032001,Blitar,44,WANITA,TIDAK,PSDM,S2,Wi_Madya
 Pelatihan Desain Grafis dan Multimedia,15/10/2018,26/11/2018,127.0,Koko Inarto,~ 198404132004121003,Mojokerto,36,PRIA,TIDAK,KNPK,S2,Wi_Muda
@@ -434,13 +434,13 @@ E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/1
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Surono,~ 197207081992121001,Jakarta,48,PRIA,TIDAK,PUSDBC,,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Ichsan Nafarin,~ 197507111995021001,Kudus,45,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Lalu Hendry Yujana,~ 195806201985101001,Mataram,62,PRIA,TIDAK,KNPK,S3,Wi_Utama
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Taufik Cahyo Sudrajad,~ 198301312004121001,Bantul,37,PRIA,TIDAK,KNPK,DIV,Wi_Muda
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
 Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Sampurna Budi Utama,~ 197402191995021001,Yogyakarta,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
@@ -457,18 +457,18 @@ Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture d
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Edy Purwanto,~ 197407191994021001,Jepara,46,PRIA,TIDAK,PUSDBC,S2,Widyaiswara
 Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Sumadiyah Triwidiyantini Olfah,~ 197010071990122001,Surakarta,50,WANITA,TIDAK,AP,S2,Wi_Muda
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Agung Tri Safari,~ 197204121992011001,Pati,48,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
-Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
 Lokakarya Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC),16/10/2018,19/10/2018,37.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Nailul Hisan,~ 197401261994021001,Kudus,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 E-Learning Pengenalan Kementerian Keuangan Corporate University Angkatan IV,16/10/2018,29/10/2018,18.0,Bilmar Parhusip,~ 195706131978021001,Pematang Siantar,63,PRIA,TIDAK,AP,S3,Wi_Utama
@@ -498,10 +498,10 @@ Pelatihan Menulis Untuk Media Massa Angkatan II,25/10/2018,04/12/2018,66.0,Arfin
 Pelatihan Desain Grafis dan Multimedia Angkatan II,29/10/2018,10/12/2018,139.0,Ali Said,~ 197301091994031001,Tasikmalaya,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Desain Grafis dan Multimedia Angkatan II,29/10/2018,10/12/2018,139.0,Irawan Purwo Aji,~ 197912231999031001,Gunung Kidul,41,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 "Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Tohirin,~ 196903121990031001,Pekalongan,51,PRIA,TIDAK,PUSPA,S2,Widyaiswara
-"Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-"Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+"Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+"Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 "Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-"Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
+"Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 "Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Deddy Candra,~ 197606111999031001,Medan,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 "Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Suwardi,~ 197010231993031002,Karanganyar,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 "Workshop Series Fiscal Risk Statement: An Effort Of Indonesia To Improve Stakeholders Awareness, Fiscal Transparency, Fiscal Accountability and Fiscal Sustainability",01/11/2018,08/11/2018,7.0,Puji Agus,~ 197508231999031002,Jakarta,45,PRIA,TIDAK,NaN,S2,Wi_Madya
@@ -528,14 +528,14 @@ Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Linda Ria Lumbantobing,~ 195
 Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Retno Dayu Wardhani,~ 196106071985032001,Bandung,59,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Edy Purwanto,~ 197407191994021001,Jepara,46,PRIA,TIDAK,PUSDBC,S2,Widyaiswara
-Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Asesor Kompetensi,06/02/2017,11/02/2017,46.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Budi Nugroho,~ 197207181992121001,Klaten,48,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Aniek Juliarini,~ 196707251993102001,Sragen,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Manajemen Risiko Kelas Manajerial Periode I,27/02/2017,28/02/2017,20.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan I,06/03/2017,16/03/2017,45.0,Ichsan Nafarin,~ 197507111995021001,Kudus,45,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan I,06/03/2017,16/03/2017,45.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
@@ -545,12 +545,12 @@ Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan I,06/03/2017,16
 Diklat Pengenalan Statistik,06/03/2017,10/03/2017,44.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
 Diklat Pengenalan Statistik,06/03/2017,10/03/2017,44.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan I,06/03/2017,16/03/2017,45.0,Suradi,~ 196310251986031002,Sragen,57,PRIA,TIDAK,PSDM,S2,Wi_Madya
-Diklat Hukum Beracara di Pengadilan,07/03/2017,17/03/2017,63.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Hukum Beracara di Pengadilan,07/03/2017,17/03/2017,63.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Evaluasi Diklat,13/03/2017,17/03/2017,44.0,Aniek Juliarini,~ 196707251993102001,Sragen,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Evaluasi Diklat,13/03/2017,17/03/2017,44.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Teori Ekonomi Makro Tingkat Dasar Angkatan II,20/03/2017,24/03/2017,50.0,Rasida,~ 195406121980031002,Danawinangun,66,PRIA,TIDAK,PUSPA,S1,Wi_Utama
 Diklat Rancang Bangun Soal,03/04/2017,07/04/2017,43.0,Bambang Sancoko,~ 197507171995031001,Magelang,45,PRIA,TIDAK,AP,S2,Wi_Madya
-Diklat Rancang Bangun Soal,03/04/2017,07/04/2017,43.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
+Diklat Rancang Bangun Soal,03/04/2017,07/04/2017,43.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Desain Grafis dan Multimedia Angkatan III,25/04/2017,10/05/2017,102.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Curriculum Design,25/04/2017,28/04/2017,32.0,Hanik Rustiningsih,~ 197003051996032001,Mojokerto,50,WANITA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Curriculum Design,25/04/2017,28/04/2017,32.0,Ichsan Nafarin,~ 197507111995021001,Kudus,45,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
@@ -574,13 +574,13 @@ Diklat Manajemen Risiko (DTU),15/05/2017,19/05/2017,26.0,Arfin,~ 197812071998031
 Diklat Evaluasi Pasca Diklat,15/05/2017,19/05/2017,46.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Evaluasi Pasca Diklat,15/05/2017,19/05/2017,46.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 Diklat Evaluasi Pasca Diklat,15/05/2017,19/05/2017,46.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan III,01/04/2019,05/04/2019,37.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Manajemen Risiko Kelas Manajerial Angkatan I,01/04/2019,02/04/2019,20.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Pelatihan Penyusunan Storyboard untuk Mendukung Implementasi Knowledge Capture di Kemenkeu Learning Center (KLC) Angkatan III,01/04/2019,05/04/2019,37.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Manajemen Risiko Kelas Manajerial Angkatan I,01/04/2019,02/04/2019,20.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Ribut Sugianto,~ 197009301990121001,Madiun,50,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Agung Tri Safari,~ 197204121992011001,Pati,48,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
 Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
-Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
+Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Rahmaluddin Saragih,~ 197608181997031002,Pematang Siantar,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Wisnu Nugrahini,~ 197105061996032001,Boyolali,49,WANITA,TIDAK,PUSDBC,S2,Widyaiswara
 Pelatihan Penyusunan Modul,08/04/2019,11/04/2019,34.0,Irawan Purwo Aji,~ 197912231999031001,Gunung Kidul,41,PRIA,TIDAK,PUSPA,S2,Wi_Muda
@@ -613,7 +613,7 @@ Pelatihan Evaluasi Pascapembelajaran,24/04/2019,26/04/2019,28.0,R. Eha Salhah,~ 
 Pelatihan Evaluasi Pascapembelajaran,24/04/2019,26/04/2019,28.0,Rahmaluddin Saragih,~ 197608181997031002,Pematang Siantar,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Manajemen Risiko Kelas Manajerial Angkatan II,29/04/2019,30/04/2019,20.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
 Diklat Pengelolaan Kinerja,10/07/2017,14/07/2017,47.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Test Of English Proficiency (TEP II) (IBT) Angkatan I,19/07/2017,15/08/2017,152.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Test Of English Proficiency (TEP II) (IBT) Angkatan I,19/07/2017,15/08/2017,152.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Desain Grafis dan Multimedia Angkatan IV,31/07/2017,14/08/2017,102.0,Dwi Ari Wibawa,~ 197607031996031001,Klaten,44,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Desain Grafis dan Multimedia Angkatan IV,31/07/2017,14/08/2017,102.0,Surono,~ 197207081992121001,Jakarta,48,PRIA,TIDAK,PUSDBC,,Wi_Madya
 Diklat Desain Grafis dan Multimedia,31/07/2017,11/08/2017,102.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
@@ -626,21 +626,21 @@ Diklat Training Need Analysis,07/08/2017,11/08/2017,40.0,Ribut Sugianto,~ 197009
 Diklat Training Need Analysis,07/08/2017,11/08/2017,40.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Training Need Analysis,07/08/2017,11/08/2017,40.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 Diklat Training Need Analysis,07/08/2017,11/08/2017,40.0,Izzuddin,~ 196004031981121001,Cirebon,60,PRIA,TIDAK,KNPK,S2,Wi_Madya
-Diklat Training Need Analysis,07/08/2017,11/08/2017,40.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Diklat Training Need Analysis,07/08/2017,11/08/2017,40.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Dasar-dasar Penelitian Angkatan III,14/08/2017,23/08/2017,54.0,Hasan Ashari,~ 197402251993011001,Mojokerto,46,PRIA,TIDAK,AP,S2,Wi_Madya
-Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Ita Hartati,~ 196206171983022001,Jakarta,58,WANITA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan III,14/08/2017,23/08/2017,54.0,Kurniawan,~ 197608291996021001,Jakarta,44,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
-Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
-Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Penyusunan Modul,14/08/2017,18/08/2017,35.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan III,14/08/2017,23/08/2017,54.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan III,14/08/2017,23/08/2017,54.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Diklat Desain Grafis dan Multimedia Angkatan V,28/08/2017,12/09/2017,102.0,Heru Cahyono,~ 197004091997031004,Magelang,50,PRIA,TIDAK,NaN,S2,Wi_Madya
 Diklat Desain Grafis dan Multimedia Angkatan V,28/08/2017,12/09/2017,102.0,Purjono,~ 196107041982031001,Jakarta,59,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Desain Grafis dan Multimedia Angkatan V,28/08/2017,12/09/2017,102.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
-Diklat Contract Drafting,18/09/2017,22/09/2017,32.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Contract Drafting,18/09/2017,22/09/2017,32.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan IV,25/09/2017,03/10/2017,54.0,Rasida,~ 195406121980031002,Danawinangun,66,PRIA,TIDAK,PUSPA,S1,Wi_Utama
 Diklat Dasar-dasar Penelitian Angkatan IV,25/09/2017,03/10/2017,54.0,Heru Cahyono,~ 197004091997031004,Magelang,50,PRIA,TIDAK,NaN,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan IV,25/09/2017,03/10/2017,54.0,Oktavia Ester Pangaribuan,~ 197110151992032001,Jayapura,49,WANITA,TIDAK,PUSPA,S1,Wi_Madya
@@ -660,19 +660,19 @@ Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan IV,23/10/2017,0
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan IV,23/10/2017,02/11/2017,45.0,Basit Sugiyanto,~ 197502101995021001,Purbalingga,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Desain Grafis dan Multimedia,30/10/2017,10/11/2017,102.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Persiapan Purnabhakti Angkatan XI,06/11/2017,10/11/2017,49.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,Puspa,DIV,Wi_Muda
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,PUSPA,DIV,Wi_Muda
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+Diklat Asesor Kompetensi Angkatan II,06/11/2017,11/11/2017,46.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Mangasa Simatupang,~ 195808261979031001,Medan,62,PRIA,TIDAK,KU,S2,Wi_Utama
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Muhtar Yahya,~ 196711161988021001,Magelang,53,PRIA,TIDAK,KU,S2,Wi_Madya
@@ -680,31 +680,31 @@ Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Efi Dyah Ind
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Budi Sudarso,~ 196904191989121001,Madiun,51,PRIA,TIDAK,AP,S2,Wi_Muda
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Muldiyanto,~ 196906101990121001,Purworejo,51,PRIA,TIDAK,AP,S1,Wi_Muda
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Surono,~ 197207081992121001,Jakarta,48,PRIA,TIDAK,PUSDBC,,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Arfin,~ 197812071998031001,Jayapura,42,PRIA,TIDAK,PUSDBC,,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Agung Haris Setiawan,~ 197503051999031001,Klaten,45,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Sam'ani Budianto K.,~ 195411081975091001,Cirebon,66,PRIA,TIDAK,AP,S2,Wi_Utama
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Retno Dayu Wardhani,~ 196106071985032001,Bandung,59,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Riyanto,~ 197510011996021001,Tegal,45,PRIA,TIDAK,AP,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Sumadiyah Triwidiyantini Olfah,~ 197010071990122001,Surakarta,50,WANITA,TIDAK,AP,S2,Wi_Muda
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Aniek Juliarini,~ 196707251993102001,Sragen,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
-Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
+Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Widyaiswara Competency Update Angkatan I,15/11/2017,17/11/2017,29.0,Parluhutan Hutahaean,~ 195609281981081001,Balige,64,PRIA,TIDAK,AP,S3,Wi_Utama
@@ -739,14 +739,14 @@ Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Ribut Sugia
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Soderi,~ 197104041993031001,Karangtengah,49,PRIA,TIDAK,AP,S2,Wi_Muda
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Setyawan Dwi Antoro,~ 197303121993021001,Karangmojo,47,PRIA,TIDAK,AP,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Subarja,~ 197508211996021003,Bantul,45,PRIA,TIDAK,AP,S1,Wi_Muda
-Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
-Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
-Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,Puspa,DIV,Wi_Muda
-Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,PUSPA,DIV,Wi_Muda
+Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Nailul Hisan,~ 197401261994021001,Kudus,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Khalimi,~ 196707051989121001,Brebes,53,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan II,27/11/2017,29/11/2017,29.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
@@ -768,11 +768,11 @@ Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Dwi Ari Wi
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Hanik Rustiningsih,~ 197003051996032001,Mojokerto,50,WANITA,TIDAK,PUSDBC,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Rita Dwi Lindawati,~ 197201131992012001,Magelang,48,WANITA,TIDAK,PUSDBC,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Supriyanto,~ 197202051999031001,Kulonprogo,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Tenry Nur Amriani,~ 197512251996022001,Takalar,45,WANITA,TIDAK,NaN,S1,Wi_Muda
@@ -787,12 +787,12 @@ Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Basit Sugi
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Rahmad Guntoro,~ 197601111996021003,Grogol-sukoharjo,44,PRIA,TIDAK,PUSPA,S2,Widyaiswara
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,A. Ali Mashduqi,~ 197507031999031002,Bojonegoro,45,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Bambang Kismanto,~ 197211261994021001,Magelang,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
@@ -804,7 +804,7 @@ Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Egrita Bun
 Widyaiswara Competency Update Angkatan III,12/12/2017,14/12/2017,29.0,Hari Sugiharto,~ 196709071988031001,Cirebon,53,PRIA,TIDAK,PSDM,DIV,Wi_Madya
 Lokakarya Knowledge Sharing Pelatihan Tatap Muka GDLN,18/01/2016,19/01/2016,10.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Lokakarya Knowledge Sharing Pelatihan Tatap Muka GDLN,18/01/2016,19/01/2016,10.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Yasser Arafat Usman,~ 197612121996021002,Ujungpandang,44,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Sri Suryanovi,~ 196411231985032001,Jakarta,56,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Retno Dayu Wardhani,~ 196106071985032001,Bandung,59,WANITA,TIDAK,PUSPA,S1,Wi_Madya
@@ -812,33 +812,33 @@ Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Aniek Juliarini,~ 196707251993102001,Sragen,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study),01/02/2016,12/02/2016,45.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Hasanuddin Tatang,~ 195605191977121001,Jakarta,64,PRIA,TIDAK,AP,S1,Wi_Madya
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Mukhtaromin,~ 197412061995031002,Kebumen,46,PRIA,TIDAK,AP,S2,Wi_Madya
-Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Persiapan Purnabhakti Angkatan I,09/02/2016,13/02/2016,44.0,Sam'ani Budianto K.,~ 195411081975091001,Cirebon,66,PRIA,TIDAK,AP,S2,Wi_Utama
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Moch. Arief Risman,~ 197012251998031006,Bandung,50,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,A. Ali Mashduqi,~ 197507031999031002,Bojonegoro,45,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
-Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Hindri Asmoko,~ 196910221990031001,Sragen,51,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Curriculum Design Angkatan I,09/02/2016,12/02/2016,32.0,Hari Sugiharto,~ 196709071988031001,Cirebon,53,PRIA,TIDAK,PSDM,DIV,Wi_Madya
 Diklat Persiapan Purnabhakti Angkatan II,29/02/2016,04/03/2016,44.0,Muhtar Yahya,~ 196711161988021001,Magelang,53,PRIA,TIDAK,KU,S2,Wi_Madya
 Diklat Persiapan Purnabhakti Angkatan I,29/02/2016,04/03/2016,44.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Lokakarya Akselerasi Corporate University,10/03/2016,22/03/2016,75.0,Noor Cholis Madjid,~ 196902041989011001,Pacitan,51,PRIA,TIDAK,AP,S2,Wi_Madya
 Lokakarya Akselerasi Corporate University,10/03/2016,22/03/2016,75.0,Deddy Candra,~ 197606111999031001,Medan,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-Lokakarya Akselerasi Corporate University,10/03/2016,22/03/2016,75.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+Lokakarya Akselerasi Corporate University,10/03/2016,22/03/2016,75.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Persiapan Purnabhakti Angkatan III,14/03/2016,18/03/2016,44.0,Hasanuddin Tatang,~ 195605191977121001,Jakarta,64,PRIA,TIDAK,AP,S1,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Muldiyanto,~ 196906101990121001,Purworejo,51,PRIA,TIDAK,AP,S1,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Ichsan Nafarin,~ 197507111995021001,Kudus,45,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Taufik Cahyo Sudrajad,~ 198301312004121001,Bantul,37,PRIA,TIDAK,KNPK,DIV,Wi_Muda
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Tenry Nur Amriani,~ 197512251996022001,Takalar,45,WANITA,TIDAK,NaN,S1,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Yasser Arafat Usman,~ 197612121996021002,Ujungpandang,44,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Leonarda Sambas Kusumaningsih,~ 197305111993012001,Sambas,47,WANITA,TIDAK,PUSPA,S2,Wi_Muda
@@ -847,34 +847,34 @@ Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Ali Said,~ 1
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Edy Purwanto,~ 197407191994021001,Jepara,46,PRIA,TIDAK,PUSDBC,S2,Widyaiswara
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Sumadiyah Triwidiyantini Olfah,~ 197010071990122001,Surakarta,50,WANITA,TIDAK,AP,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Subarja,~ 197508211996021003,Bantul,45,PRIA,TIDAK,AP,S1,Wi_Muda
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Rahmad Guntoro,~ 197601111996021003,Grogol-sukoharjo,44,PRIA,TIDAK,PUSPA,S2,Widyaiswara
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,A. Ali Mashduqi,~ 197507031999031002,Bojonegoro,45,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,Puspa,DIV,Wi_Muda
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
-Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,PUSPA,DIV,Wi_Muda
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
+Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Bambang Kismanto,~ 197211261994021001,Magelang,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Nailul Hisan,~ 197401261994021001,Kudus,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,14/03/2016,30/03/2016,110.0,Agung Widi Hatmoko,~ 197709142000011001,Brebes,43,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
 Training of Trainers,14/03/2016,18/03/2016,46.0,Achmad Zunaidi,~ 196904221989121001,Sidoarjo,51,PRIA,TIDAK,AP,S2,Wi_Muda
-Diklat Curriculum Design Angkatan II,21/03/2016,24/03/2016,32.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Curriculum Design Angkatan II,21/03/2016,24/03/2016,32.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Lokakarya Pengembangan Learning Focus,23/03/2016,24/03/2016,19.0,Agus Hekso Pramudijono,~ 197008121991031001,Kediri,50,PRIA,TIDAK,KU,S2,Wi_Madya
 Lokakarya Pengembangan Learning Focus,23/03/2016,24/03/2016,19.0,Noor Cholis Madjid,~ 196902041989011001,Pacitan,51,PRIA,TIDAK,AP,S2,Wi_Madya
 Lokakarya Pengembangan Learning Focus,23/03/2016,24/03/2016,19.0,Deddy Candra,~ 197606111999031001,Medan,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-Lokakarya Pengembangan Learning Focus,23/03/2016,24/03/2016,19.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+Lokakarya Pengembangan Learning Focus,23/03/2016,24/03/2016,19.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Diklat Tata Naskah Dinas Angkatan II,28/03/2016,01/04/2016,44.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Debt Management and Financial Analysis System (DMFAS),28/03/2016,01/04/2016,27.0,Eri Hariyanto,~ 197309011994021001,Yogyakarta,47,PRIA,TIDAK,KU,S2,Wi_Madya
 Workshop Manajemen Risiko,31/03/2016,31/03/2016,6.0,Lalu Hendry Yujana,~ 195806201985101001,Mataram,62,PRIA,TIDAK,KNPK,S3,Wi_Utama
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Hasan Ashari,~ 197402251993011001,Mojokerto,46,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Margono,~ 195405251977121001,Purwodadi,66,PRIA,TIDAK,KNPK,S2,Wi_Utama
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Suwardi,~ 197010231993031002,Karanganyar,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Riyanto,~ 197510011996021001,Tegal,45,PRIA,TIDAK,AP,S2,Wi_Madya
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Rahmad Guntoro,~ 197601111996021003,Grogol-sukoharjo,44,PRIA,TIDAK,PUSPA,S2,Widyaiswara
@@ -884,12 +884,12 @@ Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,2
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Yubilianto,~ 197807082000011001,Jakarta,42,PRIA,TIDAK,PSDM,S2,Wi_Muda
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan II,11/04/2016,21/04/2016,45.0,Mila Mumpuni,~ 197412061995112001,Wonosobo,46,WANITA,TIDAK,PSDM,S3,Wi_Madya
 Diklat Manajemen Investasi Angkatan I,11/04/2016,15/04/2016,45.0,Eri Hariyanto,~ 197309011994021001,Yogyakarta,47,PRIA,TIDAK,KU,S2,Wi_Madya
-Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Ali Said,~ 197301091994031001,Tasikmalaya,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Aniek Juliarini,~ 196707251993102001,Sragen,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Jamila Lestyowati,~ 197504161995112001,Lamongan,45,WANITA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan I,25/04/2016,03/05/2016,54.0,Nailul Hisan,~ 197401261994021001,Kudus,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
@@ -944,47 +944,47 @@ Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Muchamad Amr
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Dwi Ari Wibawa,~ 197607031996031001,Klaten,44,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Adang Karyana Syahbana,~ 195708111981091001,Jakarta,63,PRIA,TIDAK,PUSDBC,DIV,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Purjono,~ 196107041982031001,Jakarta,59,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Supriyanto,~ 197202051999031001,Kulonprogo,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Retno Dayu Wardhani,~ 196106071985032001,Bandung,59,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Moch. Arief Risman,~ 197012251998031006,Bandung,50,PRIA,TIDAK,PSDM,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Basit Sugiyanto,~ 197502101995021001,Purbalingga,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Hindri Asmoko,~ 196910221990031001,Sragen,51,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Egrita Buntara,~ 197206091999031001,Surabaya,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama,16/05/2016,31/05/2016,115.0,Febta Rina Handayani,~ 197602201996032001,Blitar,44,WANITA,TIDAK,PSDM,S2,Wi_Madya
-Diklat Promoting Financing Public-Private Partnerships (Blended Learning),30/05/2016,23/09/2016,62.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+Diklat Promoting Financing Public-Private Partnerships (Blended Learning),30/05/2016,23/09/2016,62.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Diklat Promoting Financing Public-Private Partnerships (Blended Learning),30/05/2016,23/09/2016,62.0,Johannes Aritonang,~ 196706111988031002,Irian Jaya,53,PRIA,TIDAK,NaN,,Wi_Madya
 Diklat Korea's Infrastructure Development and Public Private Partnership (Blended Learning),08/06/2016,21/09/2016,37.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Korea's Infrastructure Development and Public Private Partnership (Blended Learning),08/06/2016,21/09/2016,37.0,Noor Cholis Madjid,~ 196902041989011001,Pacitan,51,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Korea's Infrastructure Development and Public Private Partnership (Blended Learning),08/06/2016,21/09/2016,37.0,Nur Hendrastuti,~ 197312221994022001,Yogyakarta,47,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Tata Naskah Dinas Angkatan VI,20/06/2016,24/06/2016,44.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Supriyanto,~ 197202051999031001,Kulonprogo,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Sampurna Budi Utama,~ 197402191995021001,Yogyakarta,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Leonarda Sambas Kusumaningsih,~ 197305111993012001,Sambas,47,WANITA,TIDAK,PUSPA,S2,Wi_Muda
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Budi Nugroho,~ 197207181992121001,Klaten,48,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Muhammad Hikmah,~ 197510151999031003,Surakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,A. Ali Mashduqi,~ 197507031999031002,Bojonegoro,45,PRIA,TIDAK,PUSPA,DIV,Wi_Pertama
-Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Pembuatan Karya Tulis Ilmiah (Independent Study) Angkatan III,01/08/2016,11/08/2016,45.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Teknis Umum (DTU) General English Angkatan II,01/08/2016,19/08/2016,137.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Diklat Microsoft Word dan Powerpoint Tingkat Tinggi Angkatan III,08/08/2016,16/08/2016,59.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Margono,~ 195405251977121001,Purwodadi,66,PRIA,TIDAK,KNPK,S2,Wi_Utama
-Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
+Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Suwardi,~ 197010231993031002,Karanganyar,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Setyawan Dwi Antoro,~ 197303121993021001,Karangmojo,47,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Curriculum Design Angkatan III,15/08/2016,19/08/2016,32.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
-Diklat Diplomasi Ekonomi,22/08/2016,26/08/2016,47.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
+Diklat Diplomasi Ekonomi,22/08/2016,26/08/2016,47.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
+Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Suwardi,~ 197010231993031002,Karanganyar,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Puji Agus,~ 197508231999031002,Jakarta,45,PRIA,TIDAK,NaN,S2,Wi_Madya
 Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Riyanto,~ 197510011996021001,Tegal,45,PRIA,TIDAK,AP,S2,Wi_Madya
@@ -992,12 +992,12 @@ Diklat Dasar-dasar Penelitian Angkatan II,22/08/2016,30/08/2016,54.0,Izzuddin,~ 
 Diklat Diplomasi Ekonomi,22/08/2016,26/08/2016,47.0,Achmad Zunaidi,~ 196904221989121001,Sidoarjo,51,PRIA,TIDAK,AP,S2,Wi_Muda
 Lokakarya Perumusan Standar Kompetensi Kerja Dalam Rangka Pengembangan Sertifikasi Kompetensi Angkatan I,29/08/2016,31/08/2016,28.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Lokakarya Perumusan Standar Kompetensi Kerja Dalam Rangka Pengembangan Sertifikasi Kompetensi Angkatan I,29/08/2016,31/08/2016,28.0,Noor Cholis Madjid,~ 196902041989011001,Pacitan,51,PRIA,TIDAK,AP,S2,Wi_Madya
-Lokakarya Perumusan Standar Kompetensi Kerja Dalam Rangka Pengembangan Sertifikasi Kompetensi Angkatan I,29/08/2016,31/08/2016,28.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Lokakarya Perumusan Standar Kompetensi Kerja Dalam Rangka Pengembangan Sertifikasi Kompetensi Angkatan I,29/08/2016,31/08/2016,28.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Shariah Standard in Islamic Financial Institution,05/09/2016,09/09/2016,48.0,Muhtar Yahya,~ 196711161988021001,Magelang,53,PRIA,TIDAK,KU,S2,Wi_Madya
 Diklat Mastering Islamic Finance,17/10/2016,28/10/2016,58.0,Eri Hariyanto,~ 197309011994021001,Yogyakarta,47,PRIA,TIDAK,KU,S2,Wi_Madya
 Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
+Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Agung Tri Safari,~ 197204121992011001,Pati,48,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
 Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,R. Eha Salhah,~ 197007091996032001,Serang,50,WANITA,TIDAK,PUSDBC,S2,Wi_Muda
 Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Rachmatunnisya,~ 197601191996022002,Tanjung Pura,44,WANITA,TIDAK,KNPK,S2,Wi_Muda
@@ -1014,31 +1014,31 @@ Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Dwi Rachmad 
 Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Eri Hariyanto,~ 197309011994021001,Yogyakarta,47,PRIA,TIDAK,KU,S2,Wi_Madya
 Lokakarya Peningkatan Kapasitas Pengajar,05/12/2016,09/12/2016,52.0,Koko Inarto,~ 198404132004121003,Mojokerto,36,PRIA,TIDAK,KNPK,S2,Wi_Muda
 Lokakarya Digitalisasi Materi Angkatan I,07/12/2016,09/12/2016,27.0,Taufik Cahyo Sudrajad,~ 198301312004121001,Bantul,37,PRIA,TIDAK,KNPK,DIV,Wi_Muda
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Lokakarya Digitalisasi Materi Angkatan I,07/12/2016,09/12/2016,27.0,Yasser Arafat Usman,~ 197612121996021002,Ujungpandang,44,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Lokakarya Digitalisasi Materi Angkatan I,07/12/2016,09/12/2016,27.0,Soderi,~ 197104041993031001,Karangtengah,49,PRIA,TIDAK,AP,S2,Wi_Muda
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,Puspa,DIV,Wi_Muda
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,PUSPA,DIV,Wi_Muda
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Lokakarya Digitalisasi Materi Angkatan I,07/12/2016,09/12/2016,27.0,Izzuddin,~ 196004031981121001,Cirebon,60,PRIA,TIDAK,KNPK,S2,Wi_Madya
-Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
+Lokakarya Digitalisasi Materi Angkatan II,07/12/2016,09/12/2016,27.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
 Lokakarya Digitalisasi Materi Angkatan I,07/12/2016,09/12/2016,27.0,Suyono,~ 197302021992031000,Klaten,47,PRIA,TIDAK,NaN,,Wi_Madya
 Lokakarya Digitalisasi Materi Angkatan I,07/12/2016,09/12/2016,27.0,Sri Wahyuni,~ 197410061999032000,Malang,46,WANITA,TIDAK,NaN,,Wi_Muda
 Lokakarya Peningkatan Kualitas Tata Kelola Layanan Kediklatan,16/12/2016,16/12/2016,11.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
@@ -1077,45 +1077,45 @@ Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Kurniawan,~ 197608
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Edy Purwanto,~ 197407191994021001,Jepara,46,PRIA,TIDAK,PUSDBC,S2,Widyaiswara
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Sumadiyah Triwidiyantini Olfah,~ 197010071990122001,Surakarta,50,WANITA,TIDAK,AP,S2,Wi_Muda
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Subarja,~ 197508211996021003,Bantul,45,PRIA,TIDAK,AP,S1,Wi_Muda
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,Puspa,DIV,Wi_Muda
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Arief Sultony,~ 196710221988031001,Jakarta,53,PRIA,TIDAK,PUSPA,DIV,Wi_Muda
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Yubilianto,~ 197807082000011001,Jakarta,42,PRIA,TIDAK,PSDM,S2,Wi_Muda
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Bambang Kismanto,~ 197211261994021001,Magelang,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Nailul Hisan,~ 197401261994021001,Kudus,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Manajemen Diklat Angkatan I,19/01/2015,23/01/2015,46.0,Khalimi,~ 196707051989121001,Brebes,53,PRIA,TIDAK,PSDM,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,L.Y. Hari Sih Advianto,~ 197004121989121002,Malang,50,PRIA,TIDAK,NaN,S2,Wi_Madya
 Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,Puspa,S1,Wi_Pertama
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,Puspa,S2,Wi_Muda
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Dudi Wahyudi,~ 197110241992031001,Bogor,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Endriko Pudjisaputro,~ 197109111999031001,Jakarta,49,PRIA,TIDAK,PUSPA,S1,Wi_Pertama
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Faisal Ahmad Chotib,~ 197501071995111002,Jakarta,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,Puspa,S1,Wi_Muda
+Diklat Akuntansi Berbasis PSAK Konvergensi IFRS Angkatan II,26/01/2015,30/01/2015,48.0,Maulia Githa Ustadztama,~ 197712131999031005,Semarang,43,PRIA,TIDAK,PUSPA,S1,Wi_Muda
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Khamami Herusantoso,~ 196808101987031001,Tegal,52,PRIA,TIDAK,KU,S3,Wi_Madya
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Hasanuddin Tatang,~ 195605191977121001,Jakarta,64,PRIA,TIDAK,AP,S1,Wi_Madya
-Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,L.Y. Hari Sih Advianto,~ 197004121989121002,Malang,50,PRIA,TIDAK,NaN,S2,Wi_Madya
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Microfinance Training of Trainers (MFTOT),29/01/2015,27/05/2015,230.0,Dwi Rachmad Kurniawan,~ 198012072002121001,Pamekasan,40,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-Lokakarya AKSI UKI Kelas Manajerial Angkatan I,25/02/2015,25/02/2015,12.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Lokakarya AKSI UKI Kelas Manajerial Angkatan I,25/02/2015,25/02/2015,12.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Seminar The OAR ASEAN PLUS TALK: Where China?s Belt and Road Initiative (BRI) Meets Indo-Pacific,25/06/2019,25/06/2019,2.0,Ichsan Nafarin,~ 197507111995021001,Kudus,45,PRIA,YA,PUSDBC,S2,Wi_Muda
-Diklat Dasar-dasar Penelitian Angkatan I,02/03/2015,10/03/2015,49.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Dasar-dasar Penelitian Angkatan I,02/03/2015,10/03/2015,49.0,Bangkit Cahyono,~ 196805201990091001,Magelang,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kebijakan Publik Tingkat Lanjutan Angkatan I,09/03/2015,13/03/2015,46.0,Mangasa Simatupang,~ 195808261979031001,Medan,62,PRIA,TIDAK,KU,S2,Wi_Utama
 Lokakarya Integrating Development into the G20 Growth Agenda,10/03/2015,10/03/2015,2.0,Muhtar Yahya,~ 196711161988021001,Magelang,53,PRIA,TIDAK,KU,S2,Wi_Madya
 Lokakarya Integrating Development into the G20 Growth Agenda,10/03/2015,10/03/2015,2.0,Theresia Vera Yuliastanti,~ 197707021999032001,Cilacap,43,WANITA,TIDAK,KU,S2,Wi_Madya
@@ -1127,20 +1127,20 @@ Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Agus Hekso P
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Budi Sudarso,~ 196904191989121001,Madiun,51,PRIA,TIDAK,AP,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Widhayat Rudhi Windarta,~ 197205251993021001,"Tlogowungu, Pati",48,PRIA,TIDAK,AP,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Arfin,~ 197812071998031001,Jayapura,42,PRIA,TIDAK,PUSDBC,,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Agung Haris Setiawan,~ 197503051999031001,Klaten,45,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Nur Hendrastuti,~ 197312221994022001,Yogyakarta,47,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Ribut Sugianto,~ 197009301990121001,Madiun,50,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Setyawan Dwi Antoro,~ 197303121993021001,Karangmojo,47,PRIA,TIDAK,AP,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Didik Hery Santosa,~ 196810201995031001,Surabaya,52,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Junaedi Purnomo,~ 197406121996021001,Klaten,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Muhammad Taufiq Budiarto,~ 197102101990121001,Boyolali,49,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Yubilianto,~ 197807082000011001,Jakarta,42,PRIA,TIDAK,PSDM,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,30/03/2015,15/04/2015,110.0,Khalimi,~ 196707051989121001,Brebes,53,PRIA,TIDAK,PSDM,S2,Wi_Madya
@@ -1164,12 +1164,12 @@ Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,J
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Sumaryo,~ 195911011983121001,Tanjungkarang,61,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,Puspa,,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Agung Darono,~ 197203141992011001,Karanganyar,48,PRIA,TIDAK,PUSPA,,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Widyarini,~ 196904141996032001,Madiun,51,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Daniel Pangaribuan,~ 195807281981011001,Laguboti,62,PRIA,TIDAK,PSDM,S2,Wi_Utama
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Izzuddin,~ 196004031981121001,Cirebon,60,PRIA,TIDAK,KNPK,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Mila Mumpuni,~ 197412061995112001,Wonosobo,46,WANITA,TIDAK,PSDM,S3,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Suradi,~ 196310251986031002,Sragen,57,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan I,27/04/2015,13/05/2015,110.0,Hari Sugiharto,~ 196709071988031001,Cirebon,53,PRIA,TIDAK,PSDM,DIV,Wi_Madya
@@ -1180,7 +1180,7 @@ Diklat Lesson's from Korea's Development Experience: Human Capital and Innovatio
 Diklat Lesson's from Korea's Development Experience: Human Capital and Innovation Policies (Blended Learning),29/05/2015,15/09/2015,43.0,Tohirin,~ 196903121990031001,Pekalongan,51,PRIA,TIDAK,PUSPA,S2,Widyaiswara
 Diklat Financing Infrastructures (Pendekatan Studi Kasus dengan Blended Learning),30/05/2015,16/07/2015,70.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Financing Infrastructures (Pendekatan Studi Kasus dengan Blended Learning),30/05/2015,16/07/2015,70.0,Hasanuddin Tatang,~ 195605191977121001,Jakarta,64,PRIA,TIDAK,AP,S1,Wi_Madya
-Diklat Financing Infrastructures (Pendekatan Studi Kasus dengan Blended Learning),30/05/2015,16/07/2015,70.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Financing Infrastructures (Pendekatan Studi Kasus dengan Blended Learning),30/05/2015,16/07/2015,70.0,Listiyarko Wijito,~ 196904161995031001,Klaten,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Financing Infrastructures (Pendekatan Studi Kasus dengan Blended Learning),30/05/2015,16/07/2015,70.0,Oktavia Ester Pangaribuan,~ 197110151992032001,Jayapura,49,WANITA,TIDAK,PUSPA,S1,Wi_Madya
 Diklat Financing Infrastructures (Pendekatan Studi Kasus dengan Blended Learning),30/05/2015,16/07/2015,70.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Efi Dyah Indrawati,~ 197206291999032001,Malang,48,WANITA,TIDAK,KU,S2,Wi_Madya
@@ -1189,10 +1189,10 @@ Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Haris Premadi,~ 197002161997031001,Palembang,50,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Adang Karyana Syahbana,~ 195708111981091001,Jakarta,63,PRIA,TIDAK,PUSDBC,DIV,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Purjono,~ 196107041982031001,Jakarta,59,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Sampurna Budi Utama,~ 197402191995021001,Yogyakarta,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Sri Suryanovi,~ 196411231985032001,Jakarta,56,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Lokakarya Manajemen Risiko,16/06/2015,16/06/2015,8.0,Hasanuddin Tatang,~ 195605191977121001,Jakarta,64,PRIA,TIDAK,AP,S1,Wi_Madya
@@ -1205,10 +1205,10 @@ Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Haris Premadi,~ 197002161997031001,Palembang,50,PRIA,TIDAK,AP,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Adang Karyana Syahbana,~ 195708111981091001,Jakarta,63,PRIA,TIDAK,PUSDBC,DIV,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Purjono,~ 196107041982031001,Jakarta,59,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Sampurna Budi Utama,~ 197402191995021001,Yogyakarta,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Utama Angkatan II,03/06/2015,16/06/2015,110.0,Sri Suryanovi,~ 196411231985032001,Jakarta,56,WANITA,TIDAK,KNPK,S2,Wi_Madya
 Lokakarya Manajemen Risiko,16/06/2015,16/06/2015,8.0,Hasanuddin Tatang,~ 195605191977121001,Jakarta,64,PRIA,TIDAK,AP,S1,Wi_Madya
@@ -1226,11 +1226,11 @@ Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Sam'ani Budianto K.,~ 19541108
 Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Ribut Sugianto,~ 197009301990121001,Madiun,50,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
 Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Soderi,~ 197104041993031001,Karangtengah,49,PRIA,TIDAK,AP,S2,Wi_Muda
 Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Kurniawan,~ 197608291996021001,Jakarta,44,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
-Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Rahmad Guntoro,~ 197601111996021003,Grogol-sukoharjo,44,PRIA,TIDAK,PUSPA,S2,Widyaiswara
 Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 Diklat Penyusunan Soal,18/08/2015,21/08/2015,36.0,Suyono,~ 197302021992031001,Klaten,47,PRIA,TIDAK,KNPK,S2,Wi_Madya
-Diklat General English Angkatan II,24/08/2015,11/09/2015,138.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Diklat General English Angkatan II,24/08/2015,11/09/2015,138.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Teknik Audit Berbantuan Komputer Tingkat Dasar Angkatan V,14/09/2015,18/09/2015,46.0,Khamami Herusantoso,~ 196808101987031001,Tegal,52,PRIA,TIDAK,KU,S3,Wi_Madya
 Diklat Training of Trainers Angkatan II (DJKN),14/09/2015,18/09/2015,47.0,Koko Inarto,~ 198404132004121003,Mojokerto,36,PRIA,TIDAK,KNPK,S2,Wi_Muda
 Diklat Pembuatan Karya Tulis Ilmiah,28/09/2015,08/10/2015,45.0,Ribut Sugianto,~ 197009301990121001,Madiun,50,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
@@ -1259,14 +1259,14 @@ English for Trainers I,19/10/2015,13/11/2015,137.0,Sumini,~ 197106161992032001,M
 English for Trainers II,19/10/2015,13/11/2015,102.0,Deddy Candra,~ 197606111999031001,Medan,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 English for Trainers II,19/10/2015,13/11/2015,102.0,Sri Suryanovi,~ 196411231985032001,Jakarta,56,WANITA,TIDAK,KNPK,S2,Wi_Madya
 English for Trainers I,19/10/2015,13/11/2015,137.0,Ali Said,~ 197301091994031001,Tasikmalaya,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-English for Trainers II,19/10/2015,13/11/2015,102.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+English for Trainers II,19/10/2015,13/11/2015,102.0,I Wayan Sukada,~ 196707291988101001,Badung,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 English for Trainers I,19/10/2015,13/11/2015,137.0,Achmat Subekan,~ 197305031994021003,Tulungagung,47,PRIA,TIDAK,PUSPA,S3,Wi_Madya
 English for Trainers I,19/10/2015,13/11/2015,137.0,Abu Samman Lubis,~ 196109201983031004,Janji Manahan ( Tapanuli ),59,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 English for Trainers II,19/10/2015,13/11/2015,102.0,Bambang Kismanto,~ 197211261994021001,Magelang,48,PRIA,TIDAK,PSDM,S2,Wi_Madya
 English for Trainers I,19/10/2015,13/11/2015,137.0,Nailul Hisan,~ 197401261994021001,Kudus,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 English for Trainers I,19/10/2015,13/11/2015,137.0,Khalimi,~ 196707051989121001,Brebes,53,PRIA,TIDAK,PSDM,S2,Wi_Madya
 English for Trainers I,19/10/2015,13/11/2015,137.0,Izzuddin,~ 196004031981121001,Cirebon,60,PRIA,TIDAK,KNPK,S2,Wi_Madya
-English for Trainers II,19/10/2015,13/11/2015,102.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
+English for Trainers II,19/10/2015,13/11/2015,102.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
 English for Trainers II,19/10/2015,13/11/2015,102.0,Mila Mumpuni,~ 197412061995112001,Wonosobo,46,WANITA,TIDAK,PSDM,S3,Wi_Madya
 English for Trainers II,19/10/2015,13/11/2015,102.0,Hindri Asmoko,~ 196910221990031001,Sragen,51,PRIA,TIDAK,PSDM,S2,Wi_Madya
 English for Trainers II,19/10/2015,13/11/2015,102.0,Amin Subiyakto,~ 197305251992121001,Purworejo,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
@@ -1288,33 +1288,33 @@ Pelatihan Penyelenggaraan Akreditasi Lembaga Pelatihan di Bidang Keuangan Negara
 Pelatihan Penyelenggaraan Akreditasi Lembaga Pelatihan di Bidang Keuangan Negara,17/07/2019,19/07/2019,21.0,Arvan Carlo Djohansjah,~ 197408251995031002,Jember,46,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Pelatihan Penyelenggaraan Akreditasi Lembaga Pelatihan di Bidang Keuangan Negara,17/07/2019,19/07/2019,21.0,Arfin,~ 197812071998031001,Jayapura,42,PRIA,TIDAK,PUSDBC,,Wi_Madya
 Pelatihan Penyelenggaraan Akreditasi Lembaga Pelatihan di Bidang Keuangan Negara,17/07/2019,19/07/2019,21.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
-Pelatihan Penyelenggaraan Akreditasi Lembaga Pelatihan di Bidang Keuangan Negara,17/07/2019,19/07/2019,21.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
-Pelatihan Pengembangan Aplikasi Android Native,22/07/2019,04/10/2019,151.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Penyelenggaraan Akreditasi Lembaga Pelatihan di Bidang Keuangan Negara,17/07/2019,19/07/2019,21.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
+Pelatihan Pengembangan Aplikasi Android Native,22/07/2019,04/10/2019,151.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Pengembangan Aplikasi Android Native,22/07/2019,04/10/2019,151.0,Anton Suharyanto,~ 197301011992011001,Jakarta,47,PRIA,TIDAK,PUSDBC,S2,Wi_Madya
-Diklat Penulisan Buku Teks,01/04/2014,04/04/2014,36.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penulisan Buku Teks,01/04/2014,04/04/2014,36.0,Hotmian Helena Samosir,~ 196707031993102001,Tanjungbalai,53,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Modul,01/04/2014,04/04/2014,35.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Penulisan Buku Teks,01/04/2014,04/04/2014,36.0,Achmad Zunaidi,~ 196904221989121001,Sidoarjo,51,PRIA,TIDAK,AP,S2,Wi_Muda
 Diklat Kewidyaiswaraan Berjenjang Madya,02/04/2014,16/04/2014,110.0,Adang Karyana Syahbana,~ 195708111981091001,Jakarta,63,PRIA,TIDAK,PUSDBC,DIV,Wi_Madya
-Diklat Kewidyaiswaraan Berjenjang Madya,02/04/2014,16/04/2014,110.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Diklat Kewidyaiswaraan Berjenjang Madya,02/04/2014,16/04/2014,110.0,Heru Supriyanto,~ 197009051992011001,Purworejo,50,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Diklat Kewidyaiswaraan Berjenjang Madya,02/04/2014,16/04/2014,110.0,Sampurna Budi Utama,~ 197402191995021001,Yogyakarta,46,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Kewidyaiswaraan Berjenjang Madya,02/04/2014,16/04/2014,110.0,Tjahjo Winarto,~ 197005191990031001,Banyuwangi,115,PRIA,TIDAK,NaN,,Widyaiswara
 Diklat Penyusunan Soal Angkatan I,14/04/2014,17/04/2014,36.0,Hindri Asmoko,~ 196910221990031001,Sragen,51,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan I,14/04/2014,17/04/2014,36.0,Suradi,~ 196310251986031002,Sragen,57,PRIA,TIDAK,PSDM,S2,Wi_Madya
 Diklat Training Need Analysis - BPPK,21/04/2014,25/04/2014,44.0,Hanik Rustiningsih,~ 197003051996032001,Mojokerto,50,WANITA,TIDAK,PUSDBC,S2,Wi_Madya
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Asep Jumhana,~ 196509041985031001,Bandung,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,Puspa,S2,Wi_Utama
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Ida Zuraida,~ 196609301992012001,Jakarta,54,WANITA,TIDAK,PUSPA,S2,Wi_Utama
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Johannes Aritonang,~ 196706111988031012,Irian Jaya,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Mohammad Djufri,~ 196904111995031001,Cirebon,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Agus Suharsono,~ 196912311995031001,Sleman,51,PRIA,TIDAK,PUSPA,S2,Wi_Madya
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,L.Y. Hari Sih Advianto,~ 197004121989121002,Malang,50,PRIA,TIDAK,NaN,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Muhammad Rifky Santoso,~ 197006021996031002,Medan,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,Puspa,S3,Wi_Madya
-Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Budi Harsono,~ 197209261993031001,Banyumas,48,PRIA,TIDAK,PUSPA,S3,Wi_Madya
+Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Anang Mury Kurniawan,~ 197406031995021001,Surakarta,46,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Diklat Penyusunan Soal Angkatan II,28/04/2014,02/05/2014,36.0,Suhut Tumpal Sinaga,~ 197507241999031001,Tarutung,45,PRIA,TIDAK,PKNSTAN,S2,Wi_Muda
-Diklat Curriculum Design,11/08/2014,14/08/2014,32.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,Puspa,S2,Wi_Madya
+Diklat Curriculum Design,11/08/2014,14/08/2014,32.0,Rinaningsih,~ 197011231995032001,Tasikmalaya,50,WANITA,TIDAK,PUSPA,S2,Wi_Madya
 Training of Trainers AKSI UKI Lanjutan Kelas Independent Study dan Reguler,05/09/2014,16/10/2014,47.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
 Diklat Persiapan dan Sertifikasi Microsoft Office Specialist (MOS) dengan Metode Independent Study,06/10/2014,13/11/2014,86.0,Agus Hekso Pramudijono,~ 197008121991031001,Kediri,50,PRIA,TIDAK,KU,S2,Wi_Madya
 E-learning Teknik Penulisan Artikel,01/08/2019,08/08/2019,16.0,Rachmatunnisya,~ 197601191996022002,Tanjung Pura,44,WANITA,YA,KNPK,S2,Wi_Muda
@@ -1324,9 +1324,9 @@ Pelatihan Hukum Beracara di Pengadilan,13/08/2019,23/08/2019,63.0,Agus Suharsono
 Pelatihan Hukum Beracara di Pengadilan,13/08/2019,23/08/2019,63.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Pelatihan Menulis Untuk Media Massa Angkatan II,14/08/2019,16/09/2019,66.0,Rachmatunnisya,~ 197601191996022002,Tanjung Pura,44,WANITA,TIDAK,KNPK,S2,Wi_Muda
 Pelatihan Menulis Untuk Media Massa Angkatan II,14/08/2019,16/09/2019,66.0,Dwi Rachmad Kurniawan,~ 198012072002121001,Pamekasan,40,PRIA,TIDAK,PUSPA,S2,Wi_Muda
-E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,YA,Puspa,S2,Wi_Madya
+E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,YA,PUSPA,S2,Wi_Madya
 E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Agung Tri Safari,~ 197204121992011001,Pati,48,PRIA,YA,PUSDBC,S2,Wi_Muda
-E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,YA,Puspa,S2,Wi_Madya
+E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,YA,PUSPA,S2,Wi_Madya
 E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Rahmaluddin Saragih,~ 197608181997031002,Pematang Siantar,44,PRIA,YA,PUSPA,S2,Wi_Muda
 E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Jus Samuel Sihotang,~ 197506041996021002,Air Batu,45,PRIA,YA,PUSPA,S2,Wi_Muda
 E-learning Pengenalan Rancang Bangun Soal,19/08/2019,27/08/2019,12.0,Mandar Trisno Hadisaputra,~ 197506291996021001,Cirebon,45,PRIA,YA,PUSPA,S2,Wi_Muda
@@ -1339,12 +1339,12 @@ Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/0
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Widhayat Rudhi Windarta,~ 197205251993021001,"Tlogowungu, Pati",48,PRIA,TIDAK,AP,S2,Wi_Muda
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Hasan Ashari,~ 197402251993011001,Mojokerto,46,PRIA,TIDAK,AP,S2,Wi_Madya
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Ichsan Nafarin,~ 197507111995021001,Kudus,45,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
-Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Yasser Arafat Usman,~ 197612121996021002,Ujungpandang,44,PRIA,TIDAK,KNPK,S2,Wi_Madya
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Edy Purwanto,~ 197407191994021001,Jepara,46,PRIA,TIDAK,PUSDBC,S2,Widyaiswara
-Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,Puspa,S1,Wi_Madya
-Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,Puspa,S2,Wi_Utama
+Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Taufik Kurachman,~ 197010211995031001,Jember,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Yosep Poernomo,~ 196710201988031001,Surabaya,53,PRIA,TIDAK,PUSPA,S1,Wi_Madya
+Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Ilhamsyah,~ 195609021979111001,Jakarta,64,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Desak Ketut Juniari Cameng,~ 197306071992122001,Denpasar,47,WANITA,TIDAK,PUSDBC,S2,Widyaiswara
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,28/08/2019,28/08/2019,6.0,Wisnu Nugrahini,~ 197105061996032001,Boyolali,49,WANITA,TIDAK,PUSDBC,S2,Widyaiswara
 Pelatihan Business English Angkatan II,09/09/2019,17/09/2019,62.0,Gathot Subroto,~ 197012151992011001,Gunung Kidul,50,PRIA,TIDAK,KU,S2,Wi_Muda
@@ -1352,7 +1352,7 @@ Pelatihan Financial Statistics Angkatan II,09/09/2019,13/09/2019,47.0,Tenry Nur 
 Pelatihan Financial Statistics Angkatan II,09/09/2019,13/09/2019,47.0,Kurniawan Santoso,~ 197808052001121002,Magelang,42,PRIA,TIDAK,AP,S2,Wi_Pertama
 E-learning Dasar Fiqih Muamalah,11/09/2019,13/09/2019,9.0,Widhayat Rudhi Windarta,~ 197205251993021001,"Tlogowungu, Pati",48,PRIA,TIDAK,AP,S2,Wi_Muda
 E-learning Dasar Fiqih Muamalah,11/09/2019,13/09/2019,9.0,Mukhtaromin,~ 197412061995031002,Kebumen,46,PRIA,TIDAK,AP,S2,Wi_Madya
-E-learning Dasar Fiqih Muamalah,11/09/2019,13/09/2019,9.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+E-learning Dasar Fiqih Muamalah,11/09/2019,13/09/2019,9.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan III,12/09/2019,07/10/2019,73.0,Sri Wahyuni,~ 197410061999032001,Malang,46,WANITA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan III,12/09/2019,07/10/2019,73.0,Widhayat Rudhi Windarta,~ 197205251993021001,"Tlogowungu, Pati",48,PRIA,TIDAK,AP,S2,Wi_Muda
 Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan III,12/09/2019,07/10/2019,73.0,Ali Said,~ 197301091994031001,Tasikmalaya,47,PRIA,TIDAK,PUSPA,S2,Wi_Muda
@@ -1361,17 +1361,17 @@ Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan III,12/09/
 Pelatihan Penyusunan Materi Pembelajaran Berbasis Multimedia Angkatan III,12/09/2019,07/10/2019,73.0,Jus Samuel Sihotang,~ 197506041996021002,Air Batu,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 E-learning Kerangka Dasar Penyusunan dan Penyajian Laporan Keuangan Syariah,16/09/2019,18/09/2019,9.0,Widhayat Rudhi Windarta,~ 197205251993021001,"Tlogowungu, Pati",48,PRIA,YA,AP,S2,Wi_Muda
 E-learning Kerangka Dasar Penyusunan dan Penyajian Laporan Keuangan Syariah,16/09/2019,18/09/2019,9.0,Mukhtaromin,~ 197412061995031002,Kebumen,46,PRIA,YA,AP,S2,Wi_Madya
-E-learning Kerangka Dasar Penyusunan dan Penyajian Laporan Keuangan Syariah,16/09/2019,18/09/2019,9.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,YA,Puspa,S2,Wi_Madya
+E-learning Kerangka Dasar Penyusunan dan Penyajian Laporan Keuangan Syariah,16/09/2019,18/09/2019,9.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,YA,PUSPA,S2,Wi_Madya
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,17/09/2019,17/09/2019,6.0,Suwardi,~ 197010231993031002,Karanganyar,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Seminar E-Commerce di Era Ekonomi Digital: Peluang dan Tantangan,17/09/2019,17/09/2019,6.0,Abu Sopian,~ 195707131980031002,Ulak Paceh,63,PRIA,TIDAK,PUSPA,S2,Wi_Utama
 Pelatihan Data Driven Decision Making,23/09/2019,08/10/2019,55.0,Khamami Herusantoso,~ 196808101987031001,Tegal,52,PRIA,TIDAK,KU,S3,Wi_Madya
 Pelatihan Data Driven Decision Making,23/09/2019,08/10/2019,55.0,Agus Hekso Pramudijono,~ 197008121991031001,Kediri,50,PRIA,TIDAK,KU,S2,Wi_Madya
 Pelatihan Akuntansi Keuangan Syariah,23/09/2019,26/09/2019,33.0,Widhayat Rudhi Windarta,~ 197205251993021001,"Tlogowungu, Pati",48,PRIA,TIDAK,AP,S2,Wi_Muda
 Pelatihan Akuntansi Keuangan Syariah,23/09/2019,26/09/2019,33.0,Mukhtaromin,~ 197412061995031002,Kebumen,46,PRIA,TIDAK,AP,S2,Wi_Madya
-Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,Puspa,S2,Wi_Madya
-Pelatihan Akuntansi Keuangan Syariah,23/09/2019,26/09/2019,33.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Dani Ramdani,~ 196501201989101001,Tasikmalaya,55,PRIA,TIDAK,PUSPA,S2,Wi_Madya
+Pelatihan Akuntansi Keuangan Syariah,23/09/2019,26/09/2019,33.0,Suwadi,~ 197001011990031003,Pati,50,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Agung Tri Safari,~ 197204121992011001,Pati,48,PRIA,TIDAK,PUSDBC,S2,Wi_Muda
-Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,Puspa,S2,Wi_Madya
+Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Trihadi Waluyo,~ 196706201987031005,Purwokerto,53,PRIA,TIDAK,PUSPA,S2,Wi_Madya
 Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Rahmaluddin Saragih,~ 197608181997031002,Pematang Siantar,44,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Jus Samuel Sihotang,~ 197506041996021002,Air Batu,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
 Pelatihan Rancang Bangun Soal,23/09/2019,25/09/2019,21.0,Mandar Trisno Hadisaputra,~ 197506291996021001,Cirebon,45,PRIA,TIDAK,PUSPA,S2,Wi_Muda
